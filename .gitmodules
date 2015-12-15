@@ -67,3 +67,6 @@
 [submodule "plugins/docker"]
 	path = plugins/docker
 	url = https://github.com/boundary/meter-plugin-docker.git
+[submodule "plugins/kafka"]
+	path = plugins/kafka
+	url = https://github.com/boundary/meter-plugin-kafka.git
