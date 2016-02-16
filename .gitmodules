@@ -73,3 +73,6 @@
 [submodule "plugins/cassandra"]
 	path = plugins/cassandra
 	url = https://github.com/boundary/meter-plugin-cassandra.git
+[submodule "plugins/spark"]
+	path = plugins/spark
+	url = https://github.com/boundary/meter-plugin-spark.git
