@@ -76,3 +76,6 @@
 [submodule "plugins/spark"]
 	path = plugins/spark
 	url = https://github.com/boundary/meter-plugin-spark.git
+[submodule "plugins/storm"]
+	path = plugins/storm
+	url = https://github.com/boundary/meter-plugin-storm.git
