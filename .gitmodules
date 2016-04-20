@@ -79,3 +79,6 @@
 [submodule "plugins/storm"]
 	path = plugins/storm
 	url = https://github.com/boundary/meter-plugin-storm.git
+[submodule "plugins/vmware"]
+	path = plugins/vmware
+	url = https://github.com/boundary/meter-plugin-vmware.git
