@@ -42,7 +42,7 @@
 	url = git@github.com:boundary/boundary-plugin-ping-check.git
 [submodule "plugins/forkrate"]
 	path = plugins/forkrate
-	url = git@github.com:graphdat/plugin-forkrate.git
+	url = git@github.com:boundary/meter-plugin-fork-rate.git
 [submodule "plugins/hbase"]
 	path = plugins/hbase
 	url = git@github.com:graphdat/plugin-hbase.git
