@@ -21,7 +21,7 @@
 	url = git@github.com:graphdat/plugin-litespeed.git
 [submodule "plugins/memcached"]
 	path = plugins/memcached
-	url = git@github.com:graphdat/plugin-memcached.git
+	url = git@github.com:boundary/meter-plugin-memcached.git
 [submodule "plugins/mysql"]
 	path = plugins/mysql
 	url = git@github.com:boundary/boundary-plugin-mysql.git
