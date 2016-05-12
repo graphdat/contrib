@@ -82,3 +82,6 @@
 [submodule "plugins/vmware"]
 	path = plugins/vmware
 	url = https://github.com/boundary/meter-plugin-vmware.git
+[submodule "plugins/zookeeper"]
+	path = plugins/zookeeper
+	url = https://github.com/boundary/meter-plugin-zookeeper.git
