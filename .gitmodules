@@ -85,3 +85,6 @@
 [submodule "plugins/zookeeper"]
 	path = plugins/zookeeper
 	url = https://github.com/boundary/meter-plugin-zookeeper.git
+[submodule "plugins/openstack"]
+	path = plugins/openstack
+	url = https://github.com/boundary/meter-plugin-openstack.git
