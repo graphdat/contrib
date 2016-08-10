@@ -88,3 +88,6 @@
 [submodule "plugins/openstack"]
 	path = plugins/openstack
 	url = https://github.com/boundary/meter-plugin-openstack.git
+[submodule "plugins/tomcat"]
+	path = plugins/tomcat
+	url = https://github.com/boundary/meter-plugin-apache-tomcat.git
