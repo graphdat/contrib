@@ -91,3 +91,6 @@
 [submodule "plugins/tomcat"]
 	path = plugins/tomcat
 	url = https://github.com/boundary/meter-plugin-apache-tomcat.git
+[submodule "plugins/iis"]
+	path = plugins/iis
+	url = https://github.com/boundary/meter-plugin-iis.git
