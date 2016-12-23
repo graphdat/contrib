@@ -94,3 +94,6 @@
 [submodule "plugins/iis"]
 	path = plugins/iis
 	url = https://github.com/boundary/meter-plugin-iis.git
+[submodule "plugins/process"]
+	path = plugins/process
+	url = https://github.com/boundary/meter-plugin-process.git
