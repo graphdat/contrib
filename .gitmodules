@@ -97,3 +97,6 @@
 [submodule "plugins/process"]
 	path = plugins/process
 	url = https://github.com/boundary/meter-plugin-process.git
+[submodule "plugins/hadoop"]
+	path = plugins/hadoop
+	url = https://github.com/boundary/meter-plugin-hadoop.git
