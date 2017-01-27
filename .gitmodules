@@ -100,3 +100,6 @@
 [submodule "plugins/hadoop"]
 	path = plugins/hadoop
 	url = https://github.com/boundary/meter-plugin-hadoop.git
+[submodule "plugins/solr"]
+	path = plugins/solr
+	url = https://github.com/boundary/meter-plugin-solr.git
