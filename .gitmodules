@@ -103,3 +103,6 @@
 [submodule "plugins/solr"]
 	path = plugins/solr
 	url = https://github.com/boundary/meter-plugin-solr.git
+[submodule "plugins/activemq"]
+	path = plugins/activemq
+	url = https://github.com/boundary/meter-plugin-activemq.git
