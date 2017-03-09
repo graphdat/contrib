@@ -106,3 +106,6 @@
 [submodule "plugins/activemq"]
 	path = plugins/activemq
 	url = https://github.com/boundary/meter-plugin-activemq.git
+[submodule "plugins/mssql"]
+	path = plugins/mssql
+	url = https://github.com/boundary/meter-plugin-mssql.git
