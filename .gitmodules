@@ -109,3 +109,6 @@
 [submodule "plugins/mssql"]
 	path = plugins/mssql
 	url = https://github.com/boundary/meter-plugin-mssql.git
+[submodule "plugins/tcprtt"]
+	path = plugins/tcprtt
+	url = https://github.com/boundary/meter-plugin-tcprtt.git
