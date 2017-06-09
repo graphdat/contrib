@@ -25,12 +25,6 @@
 [submodule "plugins/mysql"]
 	path = plugins/mysql
 	url = git@github.com:boundary/meter-plugin-mysql.git
-[submodule "plugins/process_memory"]
-	path = plugins/process_memory
-	url = git@github.com:graphdat/plugin-process_memory.git
-[submodule "plugins/process_cpu"]
-	path = plugins/process_cpu
-	url = git@github.com:graphdat/plugin-process_cpu.git
 [submodule "plugins/mongo"]
 	path = plugins/mongo
 	url = git@github.com:graphdat/plugin-mongo.git
