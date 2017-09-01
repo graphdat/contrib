@@ -109,3 +109,6 @@
 [submodule "plugins/remedy"]
 	path = plugins/remedy
 	url = https://github.com/boundary/meter-plugin-remedy.git
+[submodule "plugins/wmi"]
+	path = plugins/wmi
+	url = https://github.com/boundary/meter-plugin-windows-performance-counter.git
