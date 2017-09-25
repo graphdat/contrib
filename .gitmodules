@@ -112,3 +112,6 @@
 [submodule "plugins/wmi"]
 	path = plugins/wmi
 	url = https://github.com/boundary/meter-plugin-windows-performance-counter.git
+[submodule "plugins/jira"]
+	path = plugins/jira
+	url = https://github.com/boundary/meter-plugin-jira.git
