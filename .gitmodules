@@ -115,3 +115,6 @@
 [submodule "plugins/jira"]
 	path = plugins/jira
 	url = https://github.com/boundary/meter-plugin-jira.git
+[submodule "plugins/winservice"]
+	path = plugins/winservice
+	url = https://github.com/boundary/meter-plugin-windows-service.git
